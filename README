@@ -1,0 +1,22 @@
+A brief explanation:
+
+My thought process and aooroach:
+I take a header that says it is a "To Do List". I take the green color as a symbol of positivity. 
+Bellow the header there is an input field and an add button to add things in the list. 
+If anyone keeps the input field empty and click add then an error message will be shown. 
+I highlighted the neighbour element of the list with different backgound color.
+Latest to do things will appear at the bottom considering that the task added before should finished before the last added one.
+If one task is done, it can be keep under check marked.
+One can delete any task by pointing the cursor at the cross icon right of the perticular task row.
+
+
+I keep it simple considering the time and my ability. No additional features is implemented.
+
+How to run the application:
+
+Download the full project on your Laptop/PC. Unzip the folder if it is zipped.
+There are three files namely html,css and java script file.
+You need to double click the html file to open it on you default browser.
+Once it is opend on your browser you will able to use the application.
+
+
